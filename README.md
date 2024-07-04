@@ -6,6 +6,7 @@ This is a web app developed as a using React.js. It allows users to search for t
 
 
 
+![weather-app](https://github.com/ChilveriPrathamesh/weather-app/assets/134124055/063381ae-1ccb-4109-8d69-49ea94cde542)
 
 
 
